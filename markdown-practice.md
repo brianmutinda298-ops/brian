@@ -43,7 +43,7 @@ The dashboard displays the latest updates, the interface is easy to use, and you
 - [ ] Learn CSS for styling web pages
 - [ ] Build a responsive website using HTML and CSS
 ```javascript
-function greet("Brian") {
+function greet(Brian) {
   return `Hello, ${name}! Welcome to web development.`;
 }
 
